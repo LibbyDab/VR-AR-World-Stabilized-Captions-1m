@@ -1,1 +1,1 @@
-# VR & AR: World Stabilized Captions - distance_1m
+# VR & AR: World Stabilized Captions - 1m
